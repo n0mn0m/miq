@@ -50,16 +50,14 @@ provide back your login and IP(s).
 The VPN is setup via Wireguard peering. The 192.168.33.1 box acts as a
 router in this scenario (although wireguard supports peer to peer) allowing
 connection to the Wireguard peer network I’m running to the outside world at
-vpn.unexpectedeof.site.
+`vpn.unexpectedeof.site`.
 
-For installing Wireguard see:
-
-https://www.wireguard.com/install/
+[Installing Wireguard](https://www.wireguard.com/install/)
 
 For configuration (assuming Linux or Mac) you will need to configure a
 wireguard interface. If using the Mac App Store the app manage tunnel
 interface handles most of this for you. If using Ubuntu or a debian based
-system give https://www.erianna.com/wireguard-ubiquity-edgeos/ #Setting up the Client a read. 
+system give [this](https://www.erianna.com/wireguard-ubiquity-edgeos/#Setting up the Client)a read. 
 
 The main thing is getting `wg0` setup right. 
 
@@ -141,4 +139,8 @@ too we can.
 ## ML
 
 `lightbike` and `arcade` have the nvidia drivers and Cuda pre installed.
-```
+
+
+## Status
+
+If you're not able to reach a box check [here](https://status.unexpectedeof.casa/) first.
