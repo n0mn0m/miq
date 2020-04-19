@@ -144,3 +144,9 @@ too we can.
 ## Status
 
 If you're not able to reach a box check [here](https://status.unexpectedeof.casa/) first.
+
+## Mailing List
+
+Above I've outlined various ways to contact me. I would also encourage use of the mailing list
+for general questions, tips, etc so that others can benefit. The mailing list can be found 
+[here](https://lists.sr.ht/~n0mn0m/casa-labs)
